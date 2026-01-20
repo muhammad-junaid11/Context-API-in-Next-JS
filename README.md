@@ -16,7 +16,7 @@ bun dev
 
 ![image alt](https://github.com/muhammad-junaid11/Context-API-in-Next-JS/blob/main/wc%20screen.PNG?raw=true)
 ![image alt](https://github.com/muhammad-junaid11/Context-API-in-Next-JS/blob/main/login%20screen.PNG?raw=true)
-![image alt]
+![image alt](https://github.com/muhammad-junaid11/Context-API-in-Next-JS/blob/main/main%20screen.PNG?raw=true)
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
