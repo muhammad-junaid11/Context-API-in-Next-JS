@@ -14,6 +14,8 @@ pnpm dev
 bun dev
 ```
 
+![image alt](https://github.com/muhammad-junaid11/Next-JS-Dashboard-/blob/main/dashboard%20main%20page.PNG?raw=true)
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
