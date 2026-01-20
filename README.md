@@ -14,7 +14,7 @@ pnpm dev
 bun dev
 ```
 
-![image alt][(https://github.com/muhammad-junaid11/Next-JS-Dashboard-/blob/main/dashboard%20main%20page.PNG?raw=true)](https://github.com/muhammad-junaid11/Context-API-in-Next-JS/blob/80286b65a2289fc6dd302a8c93f881006e598540/wc%20screen.PNG)
+![image alt](https://github.com/muhammad-junaid11/Context-API-in-Next-JS/blob/main/wc%20screen.PNG?raw=true)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
